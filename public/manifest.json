@@ -1,0 +1,9 @@
+{
+  "name": "CreativeMerch",
+  "short_name": "Merch",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "CreativeMerch 文创商品站点",
+  "icons": []
+}
